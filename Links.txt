@@ -1,0 +1,6 @@
+Iris Tutorial Links:
+Iris Getting Started Page: https://docs.volmit.com/iris/getting-started
+Iris Spigot: https://www.spigotmc.org/resources/iris-world-gen-custom-biome-colors.84586/
+Iris Github: https://github.com/VolmitSoftware/Iris
+Iris Dimensions (All that WE host): https://github.com/IrisDimensions
+Iris Overworld Dimension: https://github.com/IrisDimensions/overworld
